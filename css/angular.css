@@ -1,0 +1,17 @@
+.calc-button {
+  float: left;
+  padding: 4px;
+  margin: 0 0 6px 5px;
+  width: 50px;
+
+}
+.calc-display {
+  margin: 0 0 20px;
+  padding: 3px;
+  background: #222;
+  width: 200px;
+}
+
+.input-box{
+	margin-bottom: 4px ;
+}
